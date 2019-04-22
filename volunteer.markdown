@@ -1,7 +1,7 @@
 **Nickolas Kusman. V 1.0. WC: 1819**
 
 # Volunteer Computing 
-#Abstract#
+# Abstract
 At its core, volunteer computing is using the processing power of various heterogeneous devices within a distributed system in order to finish tasks for a singular project; usually one that would otherwise be too large for a single corporation/entity to solve itself. While volunteer computing could potentially be used in a corporate atmosphere, it is generally applied to fields in need of further scholarly research, such as folding proteins in the medical field. This is because volunteer computing allows researchers high-throughput computing at a low cost to researchers. The most common home to this large-scale volunteer computing is known as the Berkeley Open Infrastructure for Network Computing, or BOINC for short. While Volunteer Computing does have many benefits to research, it is not without its issues, such as volunteer drop-off and device heterogeneity, 
 
 **Key Words**
