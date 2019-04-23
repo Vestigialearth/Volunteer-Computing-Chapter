@@ -56,4 +56,5 @@ SETI@home:  SETI (Search for Extraterrestrial Intelligence) is a scientific area
 Folding@home: The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general.
 Enigma@Home: Enigma@home is a wrapper between BOINC and Stefan Krah's M4 Project. 'The M4 Project is an effort to break 3 original Enigma messages with the help of distributed computing. The signals were intercepted in the North Atlantic in 1942 and are believed to be unbroken.
 
+ ##  VI. Conclusion #
 These are just some of the potential applications that volunteer computing has, and with more development into volunteer computing and its incentivization, the potential for the depth and breadth of potential research is only its infancy.
